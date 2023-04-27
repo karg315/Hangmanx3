@@ -82,7 +82,7 @@ if (fails3 === null) {
     } else if (fails3 == 7) {
         imgHangman3.src = "./images/hangman7.jpg";
         document.getElementById("hint3").innerHTML = "Hint: Tires";
-        document.getElementById("btnCheckChar2").classList.add("disabled");
+        document.getElementById("btnCheckChar3").classList.add("disabled");
     }
 }
 
